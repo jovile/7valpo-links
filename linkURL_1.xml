@@ -4,8 +4,8 @@
 ## Server Panel Deluxe ###
 ### 7 Days to Die Mod ####
 ##########################
-####### Eihwaz © #########
-##### www.eihwaz.de ######
+#######   Jovi © #########
+##### Jovi Nakamura ######
 ##########################
 - - - - - - - - - - - -->
 
@@ -13,12 +13,12 @@
 <!-- Open the file and click raw button (at right side) -->
 <!-- Copy and paste the url into windows.xml -->
 
-<eihwaz.de>
+<eihwaz.jovi>
 	<entry>
-		<link>https://7daystodiemods.com/starter-bundle/</link> 
+		<link>https://discord.gg/z3pqRMnj/</link> 
 		<!-- leave the rest unchanged -->
 		<date>2024-01-01 12:00:00Z</date>
 		<title>Server Panel Deluxe</title>
 		<text></text><imagerelpath></imagerelpath>
 	</entry>
-</eihwaz.de>
+</eihwaz.jovi>
